@@ -103,7 +103,7 @@ Time management and planning: Teams learn to effectively manage their time and p
 
 Adaptability and resilience: Teams encounter unexpected challenges and changes during the development process. They learn to be adaptable, embrace change, and find creative solutions to overcome obstacles. Resilience and perseverance are key qualities that help teams navigate through difficult situations.
 
-These lessons contribute to the growth and improvement of the team, enabling them to deliver high-quality software, collaborate effectively, and continuously enhance their processes and outcomes.
+### These lessons contribute to the growth and improvement of the team, enabling them to deliver high-quality software, collaborate effectively, and continuously enhance their processes and outcomes.
 
 
 
