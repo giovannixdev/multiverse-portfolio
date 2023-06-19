@@ -40,7 +40,7 @@ Overall, this application provides a user-friendly interface for searching and b
 - Deployment using onrender
   
 ## Competencies
-During the development of the app, pair programming was utilized to design the various features. I collaborated as the driver with the the creation of the front end components, I was responsible of deploying and dockerizing the app.
+During the development of the app, pair programming was utilized to design the various features. I collaborated as the navigator with the the creation of the front end components, I was responsible of deploying and dockerizing the app.
 
 ### JF 4
 - Manage and deploy applications and programs, conduct testing, and adhere to industry security standards
