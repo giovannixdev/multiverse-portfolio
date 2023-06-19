@@ -28,7 +28,8 @@ Overall, this application provides a user-friendly interface for searching and b
 - Here is the link to the app https://rawgs-app.onrender.com/
 - Here is the link to the repo https://github.com/VZ-Devs/rawgs-app
 
-RAWG APP
+## RAWG APP
+
   ![Alt text](RAWGAPP1.png)
   ![Alt text](RAWGAPP2.png)
   ![Alt text](RAWGAPP3.png)
