@@ -22,7 +22,8 @@ Overall, the application allows users to manage their inventory by adding, viewi
 
 - Here is the link to the repo https://github.com/VZ-Devs/Inventory-APP
 
-Inventory APP
+## Inventory APP
+
 ![Alt text](IMAPP.png)
 ![Alt text](IMAPP2.png)
 ![Alt text](IMAPP3.png)
